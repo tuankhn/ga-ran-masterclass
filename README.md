@@ -1,6 +1,6 @@
 # 🍗 Gà Rán Vảy Xù 7:3 — Cẩm Nang Làm Gà Rán Chuẩn KFC & Popeyes Tại Nhà
 
-🌐 **Live Website:** [https://cactor7733789.github.io/ga-ran-masterclass/](https://cactor7733789.github.io/ga-ran-masterclass/)
+🌐 **Live Website:** [https://tuankhn.github.io/ga-ran-masterclass/](https://tuankhn.github.io/ga-ran-masterclass/)
 
 Ứng dụng web hướng dẫn làm gà rán giòn vảy xù chuẩn vị fast-food (KFC / Popeyes) dành cho người mới bắt đầu (amateur), chuẩn hóa toàn bộ định lượng theo tỷ lệ khối lượng trên **1 kg thịt gà**.
 
