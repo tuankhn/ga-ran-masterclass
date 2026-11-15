@@ -1,0 +1,50 @@
+[
+ {
+  "file": "assets/freshippo-crispy-fried-chicken.jpg",
+  "media": "image",
+  "ref": "commons:151792232",
+  "title": "Freshippo crispy fried chicken",
+  "creator": "Fumikas Sagisavas",
+  "creatorUrl": null,
+  "date": "2024-07-05",
+  "license": "CC0",
+  "licenseCode": "cc0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "creditRequired": false,
+  "page": "https://commons.wikimedia.org/wiki/File:Freshippo_crispy_fried_chicken.jpg",
+  "via": "Wikimedia Commons",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Freshippo_crispy_fried_chicken.jpg/1920px-Freshippo_crispy_fried_chicken.jpg",
+  "width": 1920,
+  "height": 1440,
+  "bytes": 759841,
+  "credit": "\"Freshippo crispy fried chicken\" by Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "notes": [],
+  "saved": "2026-11-14T10:55:29.013Z"
+ },
+ {
+  "file": "assets/frying-akara.webm",
+  "media": "video",
+  "poster": "assets/frying-akara-poster.jpg",
+  "ref": "commons:147674879",
+  "title": "Frying akara",
+  "creator": "001chakra",
+  "creatorUrl": null,
+  "date": "2024-03-27",
+  "license": "CC BY-SA 4.0",
+  "licenseCode": "by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "creditRequired": true,
+  "page": "https://commons.wikimedia.org/wiki/File:Frying_akara.webm",
+  "via": "Wikimedia Commons",
+  "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Frying_akara.webm/Frying_akara.webm.1080p.vp9.webm",
+  "width": 608,
+  "height": 1080,
+  "duration": 12.6,
+  "bytes": 3991433,
+  "credit": "\"Frying akara\" by 001chakra, CC BY-SA 4.0, via Wikimedia Commons",
+  "notes": [
+   "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+  ],
+  "saved": "2026-11-14T10:56:11.544Z"
+ }
+]
